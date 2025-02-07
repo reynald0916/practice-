@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<tittle>html practice <title/>
+<head> hello html<head/>
+<body>
+
+<datails>
+<summary>read me please</summary>
+<h1>hi kuya mautot hiya kuno hahahaha</h1>
+<h1>tas maiget pa hahaha</h1>
+</datails>
+
+<body/>
+
+<html/>
